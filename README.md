@@ -1,1 +1,1 @@
-# omarOrtegaCMS
+# Carlos Salinas Ruíz - Proyecto CMS
